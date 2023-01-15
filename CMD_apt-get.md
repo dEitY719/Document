@@ -9,4 +9,4 @@
 * apt-get install 명령을 이용해서 특정 패키지를 설치할 수 없는 경우 최신으로 패키지 리스트를 업데이트해야 할 필요가 있다. 
 
 ## apt-get upgrade
-> 운영체제에 `apt-get install` 명령으로 설치한 패키지들을 최신 버전으로 업그레이드하는 명령어다. apt-get upgrade 명령을 이용하면 apt-get update로 가져온 각 패키지들의 최신 버전에 맞게 업그레이드를 한다.
+> 운영체제에 apt-get install 명령으로 설치한 패키지들을 최신 버전으로 업그레이드하는 명령어다. `apt-get upgrade` 명령을 이용하면 apt-get update로 가져온 각 패키지들의 최신 버전에 맞게 업그레이드를 한다.
